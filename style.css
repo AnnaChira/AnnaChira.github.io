@@ -2,11 +2,24 @@ img {
     width: 60%;
     height: auto;
 }
-.navbar{
-    background-color: #4E1956;
-}
 
 .jumbotron{
     background-image: "https://annachirapongse.com/wp-content/uploads/2019/07/Hero-Image-1.png";
     background-repeat: no-repeat;
+}
+.nav-item{
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.lead {
+    text-align: center;
+    color: purple;
 }
